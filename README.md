@@ -2,11 +2,11 @@
 This is Ashwin, fresher at Amrita School of Engineering (CSE 2019). 
 
 ## Table of Contents
-<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-0">Task-0</a>
-<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-1">Task-1</a>
-<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-2">Task-2</a>
-<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a>
-<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a>
+<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-0">Task-0</a></p>
+<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-1">Task-1</a></p>
+<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-2">Task-2</a></p>
+<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a></p>
+<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a></p>
 
 
 ## About my tasks
