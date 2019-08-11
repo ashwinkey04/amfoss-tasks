@@ -1,6 +1,14 @@
 # Welcome to my amFOSS Tasks repo
 This is Ashwin, fresher at Amrita School of Engineering (CSE 2019). 
 
+## Table of Contents
+<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-0">Task-0</a>
+<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-1">Task-1</a>
+<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-2">Task-2</a>
+<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a>
+<a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a>
+
+
 ## About my tasks
 
 I would say that the tasks were crafted to pick the best (exactly why I couldn't finish them all :P). Though I am not done with all of them, I learnt a lot about most of tasks and they would really prove beneficial to me in the long run. 
