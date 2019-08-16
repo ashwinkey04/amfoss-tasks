@@ -2,14 +2,17 @@
 This is Ashwin, fresher at Amrita School of Engineering (CSE 2019). 
 
 ## Table of Contents
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-0">Task-0</a></p>
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-1">Task-1</a></p>
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-2">Task-2</a></p>
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-7">Task-7</a></p>
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-8">Task-8</a></p>
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a></p>
-<p><a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a></p>
 
+
+| Task | Description |
+| --- | --- |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-0">Task-0</a> | Installing Ubuntu |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-1">Task-1</a> | Script to star all repos of amfoss |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-2">Task-2</a> | Codeforces and Hackerrank problems |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-7">Task-7</a> | Rust program to check validity of a mail address |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-8">Task-8</a> | Captcha breaking using python |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a> | Personal website in github pages |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a> | Bandit |
 
 ## About my tasks
 
