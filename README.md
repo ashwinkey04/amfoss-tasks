@@ -13,10 +13,14 @@ This is Ashwin, fresher at Amrita School of Engineering (CSE 2019).
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-8">Task-8</a> | Captcha breaking using python |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a> | Personal website in github pages |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a> | Bandit |
+| --- | --- |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-3">Task-3</a>  | Google Scraping using Ruby (Pending) |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-5">Task-5</a>  | Get it using JavaScript (Pending) |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-6">Task-6</a>  | CLI app using GO (Pending) |
 
 ## About my tasks
 
-I would say that the tasks were crafted to pick the best (exactly why I couldn't finish them all :P). Though I am not done with all of them, I learnt a lot about most of tasks and they would really prove beneficial to me in the long run. 
+I would say that the tasks were crafted to pick the best (exactly why I couldn't finish them all :P). Though I am not done with all of them, I learned how to approach new problems and languages and several ways to overcome errors. Since computer science is a rapidly updating field, these will help me very much in the long run.
 
 ## Who's me?
 
