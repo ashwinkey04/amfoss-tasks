@@ -13,7 +13,7 @@ This is Ashwin, fresher at Amrita School of Engineering (CSE 2019).
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-8">Task-8</a> | Captcha breaking using python |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-9">Task-9</a> | Personal website in github pages |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a> | Bandit |
-| --- | --- |
+|  |  |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-3">Task-3</a>  | Google Scraping using Ruby (Pending) |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-5">Task-5</a>  | Get it using JavaScript (Pending) |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-6">Task-6</a>  | CLI app using GO (Pending) |
