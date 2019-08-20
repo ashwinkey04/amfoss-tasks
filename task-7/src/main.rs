@@ -8,7 +8,6 @@ fn main() {
     io::stdin().read_line(&mut input)
         .ok()
         .expect("Input error");
-    println!("{:?}",&input);
-    println!("{:?}",len);    
+    println!("{:?}",&input);    
     println!("Match? {}", re.is_match(&input.trim()));
 }
