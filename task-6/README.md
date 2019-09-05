@@ -1,2 +1,6 @@
 #Command Line app using GO
-After installing go, I read the tour in golang's documentation until Methods and interfaces. I also read and did codes for file handling in go. Unfortunately I was not able to proceed with this task as I got my twitter API keys generated only two days before the deadline and I didn't find much time to learn about using twitter's API in Go.
+
+Note: To use this, clone this into to your PC and modify the CREDENTIALS file by adding your respective twitter access keys. 
+
+
+I used an API library (kurrik/twittergo) to place API requests using golang. This CLI app will write the whole timeline of a specified twitter handle into a file named user_timeline.json which will automatically get generated inside the project directory.
