@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<body background="https://adhplubricantsusa.com/wp-content/uploads/2015/08/subtle-white-BG.jpg">
+<center>
+<p>Github</p>
+<input id="usin" placeholder="Enter username">
+<button id = "button"onclick="getdata()">Fetch</button>
+<p>
+<img id="Avatar" height=220 width=220>
+<img id="Identicon" height=150 width=150>
+<br>
+
+<b>Userame:</b>
+<p id="Username">	</p>
+<b>Name:</b>
+<p id="Name">	</p>
+<b>Bio:</b>
+<p id="Bio">	</p>
+<br>
+
+</p>
+<br>
+
+</center>
+<script>
+	function getdata(){
+                var login = document.getElementById("usin").value;
+                var query = `query get_details($login: String!) {
+                                user(login: $login) {
+                                    login
+                                    name
+                                    avatarUrl
+                                    bio
+                                }
+                            }`
+                fetch('https://api.github.com/graphql', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Accept': 'application/json',
+                        'Authorization': 'bearer ##########################',//replace with your access token                        
+                    },
+                    body: JSON.stringify({
+                        query,
+                        variables: { login },
+                    })
+                }).then(r => r.json()).then(data => {   
+                    console.log(data)                       
+                                document.getElementById("Avatar").src = data.data.user.avatarUrl;
+                                document.getElementById("Username").innerHTML = data.data.user.login;                             
+                                document.getElementById("Identicon").src = "https://identicons.github.com/"+document.getElementById("usin").value+".png";
+                                document.getElementById("Name").innerHTML= data.data.user.name
+                                document.getElementById("Bio").innerHTML= data.data.user.bio
+
+                    }
+                    )
+                    .catch(function(err){
+                        console.log('Error ', err);
+                    });
+            }
+</script>
+</body>
+</html>
+
