@@ -13,4 +13,4 @@ Though I am not clear about the entire process, looking into the tasks: as I hav
 Get into some project and do something useful. Try to satisfy my dad's wish of minimum CGPA of 8.5
 
 ### How would you contribute back to the club?
-I will help out people who wish to learn what I know (My friends love the teacher in me). I will help the club in taking the right members in the forthcoming years. 
+I will help out people who wish to learn what I know. I will help the club in taking the right members in the forthcoming years. 

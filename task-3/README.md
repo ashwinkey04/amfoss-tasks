@@ -1,2 +1,2 @@
 # Google scraping using Ruby
-I installed ruby and read Ruby's documentation (Ruby in 20 minutes). I installed nokogiri and read it's documentation as well. Learnt about CSS and XPATH selectors to use in this task. I was able to understand how the selectors wrk. But I was unable to figure out the right selectors required for scraping from google search. I was able to scrape from a few other sites using CSS selectors. So, I was unable to do this task.
+Finished after figuring out the right xpath selector
