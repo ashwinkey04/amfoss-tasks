@@ -1,32 +1,82 @@
 <!DOCTYPE html>
 <html>
+<head>
+    <title>Github Search</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Manjari|Dosis|Squada+One&display=swap" rel="stylesheet">
 
-<body background="https://adhplubricantsusa.com/wp-content/uploads/2015/08/subtle-white-BG.jpg">
-    <center>
-        <p>
-            <h1>Github User Finder</h1></p>
-        <input id="usin" placeholder="Enter username">
-        <button id="button" onclick="getdata()">Fetch</button>
-        <p>
-            <img id="Avatar" height=220 width=220>
-            <img id="Identicon" height=150 width=150>
-            <br>
-            <p id="Usertxt"><b>Userame:</b></p>
-            <p id="Username"> </p>
-            <p id="Nametxt"><b>Name:</b></p>
-            <p id="Name"> </p>
-            <br>
-            <p id="Biotxt"><b>Bio:</b></p>
-            <p id="Bio"> </p>
-            <br>
-            <p id="Mailtxt"><b>Mail:</b></p>
-            <p id="Mail"> </p>
+    <script src="script.js"></script>
 
-        </p>
-        <br>
+        <style>
+                body {
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                }
 
-    </center>    
-    <script src="script.js"></script>    
+                h1{
+                    font-family: 'Dosis', cursive!important;
+                    
+                }
+        
+                p {
+                    text-align: center;
+                    font-family: 'Dosis', cursive!important;  
+                }
+        
+                h1 {
+                    text-align: center;
+                    align-content: center;
+                    font-family: Arial;
+                }
+        
+                button {
+
+                    align-self: center;
+                }
+        
+                input {
+                    align-self: center;
+                    text-align: center;
+                    font-family: Arial;
+                }
+        
+                img {
+                    border-radius: 20%;
+        
+                }
+                #error, #content {
+                    display: none;
+                }
+            </style>        
+</head>
+<body background="bg.png">
+    <div class="d-flex justify-content-center" style="padding: 5vw">
+        <div class="d-flex justify-content-center align-items-center w-100 p-4 bg-white rounded-lg">
+            <div>
+                    <h1>Github User Finder</h1>
+                    <input id="usin" class="form-control d-inline w-75" placeholder="Enter username">
+                    <button id="button" class="btn btn-primary d-inline padding: 1vw;" onclick="getdata()">Fetch</button>
+                    <div id="error">
+                            <div class="alert alert-danger" role="alert">
+                                    User doesn't exist!
+                            </div>
+                        </div>
+                    <div id="content">
+                        <img id="Avatar" style="padding: 1vw;" width=220>
+                        <img id="Identicon" style="padding: 1vw;" width=150 >
+                        <br>
+                        <p id="Nametxt"  ><b>Name:</b></p>
+                        <p id="Name" > </p>
+                        <br>
+                        <p id="Biotxt"  ><b>Bio:</b></p>
+                        <p id="Bio"> </p>
+                        <br>
+                        <p id="Mailtxt"><b>Mail:</b></p>
+                        <p id="Mail"> </p>
+                    </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
