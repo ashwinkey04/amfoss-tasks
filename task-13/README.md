@@ -1,3 +1,3 @@
 # Project Euler
 
-I am yet to attempt this task
+I have completed tasks 1,2,3 without any timeout/runtime errors
