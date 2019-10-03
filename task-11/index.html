@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>Pong!</title>
+    <script src="script.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Manjari|Dosis|Squada+One&display=swap" rel="stylesheet">
+
+    <style>      
+
+        h2 {
+            text-align: center;
+            font-family: Dosis;
+            margin-top: 3%;
+        }        
+        div{
+            text-align: center;
+            align-self: center;
+            font-family: Dosis; 
+        }
+
+        #gogame{
+            margin-top: 5%;
+        }
+        .wrapper {
+            text-align: center;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div id="prnt">
+        <h2>
+            Pong!
+        </h2>
+        <input id="in1" class="form-control d-inline w-50"style="margin-left: auto;margin-top: 5vw;" placeholder="Enter Player 1 's name">
+        <button id="set1" class="btn btn-primary d-inline padding: 1vw;" onclick="set1()">Set</button>
+        <input id="in2" class="form-control d-inline w-50" style="margin-left: auto;margin-top: 5vw"placeholder="Enter Player 2 's name">
+        <button id="set2" class="btn btn-primary d-inline padding: 1vw;" onclick="set2()">Set</button>
+        <div class="wrapper">
+            <a href="pong.html">
+            <button id="gogame" type="button" class="btn btn-outline-success"
+                >GO!</button>
+            </a>
+        </div>
+        <br>       
+        <div class="alert alert-primary" id="player1" style="margin-left:auto; font-size: 2vw"role="alert">
+        </div>
+        <div class="alert alert-primary" id="player2" style="margin-left:auto; font-size: 2vw"role="alert">
+            </div>  
+    </div>
+
+
+</body>
+
+</html>
