@@ -1,3 +1,4 @@
+![GitHub top language](https://img.shields.io/github/languages/top/ashwinkey04/amfoss-tasks.svg?color=blue)
 # amFOSS tasks - Ashwin R 
 This is Ashwin, fresher at Amrita School of Engineering (CSE 2019). 
 
