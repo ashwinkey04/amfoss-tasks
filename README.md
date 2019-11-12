@@ -1,4 +1,3 @@
-![GitHub top language](https://img.shields.io/github/languages/top/ashwinkey04/amfoss-tasks.svg?color=blue)
 # amFOSS tasks - Ashwin R 
 This is Ashwin, fresher at Amrita School of Engineering (CSE 2019). 
 
@@ -19,10 +18,10 @@ This is Ashwin, fresher at Amrita School of Engineering (CSE 2019).
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-13">Task-13 </a>| Project Euler (Almost done) |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-14">Task-14</a> | Bandit |
 |  |  |
-| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-4" > Task-4 </a>  | Advanced XOR (pending) |
-| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-10">Task-10 </a>  | CS50 (pending) |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-4" > Task-4 </a>  | Advanced XOR *(pending)* |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-10">Task-10 </a>  | CS50 *(pending)* |
 | <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-11">Task-11 </a> | Pong game (Pending)|
-| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-12">Task-12 </a>  | Python Source (pending) |
+| <a href="https://github.com/ashwinkey04/amfoss-tasks/tree/master/task-12">Task-12 </a>  | Python Source *(pending)* |
 
 ## About my tasks
 

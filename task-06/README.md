@@ -1,4 +1,4 @@
-#Command Line app using GO
+# Command Line app using GO
 
 Note: To use this, clone this into to your PC and modify the CREDENTIALS file by adding your respective twitter access keys. 
 
